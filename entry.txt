@@ -1,0 +1,1 @@
+Your password expired while you were typing it — correct when you started, too old when you finished, so we rejected the password we just accepted. Type faster than the timer, or call IT to reset it.
